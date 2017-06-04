@@ -1,0 +1,65 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  m_playerId: 
+  m_type: 1
+  _eventid: 1
+  _event: MyString
+  _gameloop: 1
+  _bits: 1
+  m_userId: 1
+  m_slotId: 1
+  m_controllingTeam: 1
+  m_hero: MyString
+  m_controllingPlayer: 1
+  m_unitTagIndex: 1
+  m_unitTagRecycle: 1
+  m_controlPlayerId: 1
+  m_y: 1
+  m_x: 1
+  m_upkeepPlayerId: 1
+  m_unitTypeName: MyString
+  m_count: 1
+  m_upgradeTypeName: MyString
+  m_stringData: MyText
+  m_intData: MyText
+  m_eventName: MyString
+  m_fixedData: MyText
+  m_killerPlayerId: 1
+  m_killerUnitTagRecycle: 1
+  m_killerUnitTagIndex: 1
+  m_items: MyText
+  m_firstUnitIndex: 1
+  m_instanceList: MyText
+
+two:
+  m_playerId: 
+  m_type: 1
+  _eventid: 1
+  _event: MyString
+  _gameloop: 1
+  _bits: 1
+  m_userId: 1
+  m_slotId: 1
+  m_controllingTeam: 1
+  m_hero: MyString
+  m_controllingPlayer: 1
+  m_unitTagIndex: 1
+  m_unitTagRecycle: 1
+  m_controlPlayerId: 1
+  m_y: 1
+  m_x: 1
+  m_upkeepPlayerId: 1
+  m_unitTypeName: MyString
+  m_count: 1
+  m_upgradeTypeName: MyString
+  m_stringData: MyText
+  m_intData: MyText
+  m_eventName: MyString
+  m_fixedData: MyText
+  m_killerPlayerId: 1
+  m_killerUnitTagRecycle: 1
+  m_killerUnitTagIndex: 1
+  m_items: MyText
+  m_firstUnitIndex: 1
+  m_instanceList: MyText
