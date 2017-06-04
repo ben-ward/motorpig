@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  m_color: MyString
+  m_teamId: 1
+  m_observe: 1
+  m_control: 1
+  m_race: MyString
+  m_handicap: 1
+  m_toon: MyText
+  m_result: 1
+  m_workingSetSlotId: 1
+  m_hero: MyString
+  m_name: MyString
+
+two:
+  m_color: MyString
+  m_teamId: 1
+  m_observe: 1
+  m_control: 1
+  m_race: MyString
+  m_handicap: 1
+  m_toon: MyText
+  m_result: 1
+  m_workingSetSlotId: 1
+  m_hero: MyString
+  m_name: MyString

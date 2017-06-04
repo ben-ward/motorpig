@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  m_modPaths: MyString
+  m_defaultDifficulty: 1
+  m_timeLocalOffset: 1
+  m_thumbnail: MyText
+  m_restartAsTransitionMap: false
+  m_title: MyString
+  m_cacheHandles: MyText
+  m_timeUTC: 2017-06-03 13:17:25
+  m_isBlizzardMap: false
+  m_mapFileName: 
+  m_gameSpeed: 1
+  m_miniSave: false
+  m_difficulty: MyString
+
+two:
+  m_modPaths: MyString
+  m_defaultDifficulty: 1
+  m_timeLocalOffset: 1
+  m_thumbnail: MyText
+  m_restartAsTransitionMap: false
+  m_title: MyString
+  m_cacheHandles: MyText
+  m_timeUTC: 2017-06-03 13:17:25
+  m_isBlizzardMap: false
+  m_mapFileName: 
+  m_gameSpeed: 1
+  m_miniSave: false
+  m_difficulty: MyString
